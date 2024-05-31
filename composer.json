@@ -1,5 +1,5 @@
 {
-  "name": "madeyedeer/flarum-pallet-theme",
+  "name": "HeavenlyAnchor/Vanguard-flarum-pallet-theme",
   "description": "Fork of Pallet theme for your forum. Original by Hasan Özbey.",
   "keywords": [
     "flarum",
@@ -9,6 +9,11 @@
   "type": "flarum-extension",
   "license": "MIT",
   "authors": [
+        {
+      "name": "Celestialis",
+      "email": "admin@celestialis.xyz",
+      "homepage": "https://Celestialis.xyz/forum/"
+    },
     {
       "name": "Adrian McCay",
       "email": "opensource@madeyedeer.com",
@@ -41,7 +46,7 @@
       "title": "Pallet Theme",
       "icon": {
         "name": "fas fa-pallet",
-        "backgroundColor": "#b72a2a",
+        "backgroundColor": "#b80000",
         "color": "#fff"
       }
     }
